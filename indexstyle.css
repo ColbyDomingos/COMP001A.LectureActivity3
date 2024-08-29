@@ -3,15 +3,17 @@
     list-style-position: inside;
     background-image: url(https://static.vecteezy.com/system/resources/previews/000/830/858/original/abstract-gradient-streak-background-vector.jpg);
     background-position: center;
-    background-size:700px 200px;
+    background-size: 700px 200px;
     background-repeat: no-repeat;
 }   
 
 h1 {
     text-align: center;
+    background-color: bisque;
 }
 
 div {
+    background-color: beige;
     text-align: center;
 }
 
@@ -29,5 +31,4 @@ a:visited {
 a:hover {
     color: bisque
 }
-
 
