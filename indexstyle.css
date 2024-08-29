@@ -10,18 +10,25 @@
 h1 {
     text-align: center;
     background-color: bisque;
+    padding: 4px 2px;
 }
 
 div {
     background-color: beige;
     text-align: center;
+    padding: 1px 2px;
+
 }
 
 
 /* Changes Link Color and makes it visible with the nav background*/
 
 a:link {
-    color: rgb(195, 216, 100);
+    color: rgb(193, 236, 2);
+    background-color: rgb(30, 67, 168);
+    padding: 1px 2px;
+    display: inline-block;
+    text-decoration: none;
 }
 
 a:visited {
