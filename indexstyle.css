@@ -20,6 +20,10 @@ div {
     border: 2px rgb(117, 117, 16)
 }
 
+img {
+    border-radius:2cap;
+    border-style:double;
+}
 
 /* Changes Link Color and makes it visible with the nav background*/
 
